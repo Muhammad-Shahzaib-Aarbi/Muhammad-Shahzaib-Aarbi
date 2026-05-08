@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammad Shahzaib Aarbi ⚙️
 
-<!--
-**MShahzaibHussain/MShahzaibHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate Mechatronics and Control Engineering student currently in my 4th semester at UET Lahore. I specialize in the intersection of hardware architecture and software control logic. 
 
-Here are some ideas to get you started:
+My engineering focus is on practical problem-solving, moving from CAD kinematics to physical circuit assembly and microcontroller integration. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Hardware & Design:** SolidWorks (3D Modeling & Kinematics), Proteus (Circuit Assembly & Debugging)
+* **Software & Logic:** C, Python (OpenCV, MediaPipe), MATLAB
+* **Embedded Systems:** Microcontroller Integration, ARM Assembly, Basic Verilog HDL
+
+### 🚀 Currently Working On
+* Developing hardware-interfaced control systems and autonomous robotics modules.
+* Refining my C and Python logic for embedded applications.
+
+### 📫 Let's Connect
+* **LinkedIn:** www.linkedin.com/in/muhammad-shahzaib-aarbi-251450344
+* **Email:** shahzaibhussain819@gmail.com
