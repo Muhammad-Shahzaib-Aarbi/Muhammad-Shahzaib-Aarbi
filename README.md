@@ -19,7 +19,7 @@ My engineering philosophy is built on end-to-end execution: moving from CAD kine
 
 ### 🌱 Currently Exploring
 * Advanced autonomous navigation and control systems for robotics.
-* Preparing for R&D internships (such as the MITACS Globalink program) to contribute to cutting-edge mechatronics research.
+* Preparing for R&D internships to contribute to cutting-edge mechatronics research.
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/muhammad-shahzaib-aarbi-251450344](https://www.linkedin.com/in/muhammad-shahzaib-aarbi-251450344)
